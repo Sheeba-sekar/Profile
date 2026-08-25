@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Sheeba&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Data%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Sheeba&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Data%20Engineer&descAlignY=70&descSize=20&animation=fadeIn" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent+systems+with+AI+%26+data;Turning+raw+data+into+real-world+impact" alt="Typing SVG"/>
 
 <br/>
